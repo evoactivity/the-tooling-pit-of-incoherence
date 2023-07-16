@@ -96,6 +96,7 @@ These are things we should fix so no one is losing a feature that currently work
 - Writing contributing guides
 - Creating a [changesets](https://github.com/changesets/changesets) based workflow to release vs code extensions
 - Review and rewrite [Ember Guides / Ember Extensions](https://guides.emberjs.com/release/code-editors) page
+- Upstreaming lifearts work back into Ember Tooling org
 - Ember Language Server should provide
 	- Semantic Scope Tokens for additional syntax highlighting
 	- Code Folding for JS/TS parts of `.gjs/.gts` files
