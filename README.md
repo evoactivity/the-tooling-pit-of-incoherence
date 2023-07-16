@@ -107,7 +107,7 @@ These are things we should fix so no one is losing a feature that currently work
 
 ## How you can help
 
-You're inside your editor most of the day right? Try things like `Glint` and `ember-template-imports`, let us know well it works for you (in terms of editor experience). Are you missing some key functionality you rely on in normal `.js, .ts, .hbs` contexts? Is something just behaving strangely? Are you not seeing the correct syntax highlighting?
+You're inside your editor most of the day right? Try things like `Glint` and `ember-template-imports`, let us know how well it works for you (in terms of editor experience). Are you missing some key functionality you rely on in normal `.js, .ts, .hbs` contexts? Is something just behaving strangely? Are you not seeing the correct syntax highlighting?
 
 1) Report issues you run into to the relevant [Ember Tooling](https://github.com/ember-tooling) repository
 	- Until unified under Ember Tooling, it'll probably be one of these repos
