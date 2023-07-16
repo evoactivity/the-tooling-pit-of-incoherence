@@ -85,7 +85,7 @@ These are things we should fix so no one is losing a feature that currently work
 - vscode: Auto closing html tags does not work inside template tags (does work in `.hbs` files)
 - vscode: A `glimmer-js` file inside a typescript project syntactically is treated as typescript (types are not syntax errors as they would be in a js file) and glint does not run properly, but it successfully builds
 	- I do see `.gjs` as an extension in glint extension source, so I'm not sure why it's not working. @dfreeman any ideas?
-- vscode: Multi-root workspaces can cause glint to duplicate hover information
+- ~~vscode: Multi-root workspaces can cause glint to duplicate hover information~~
 	- https://github.com/typed-ember/glint/issues/602
 - Semantic tokens are not provided by either language server so additional syntax highlighting (decorators etc) is not possible
 
