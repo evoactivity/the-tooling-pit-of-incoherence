@@ -18,8 +18,6 @@ So a lot of the work is already done or started! For the parts we do not have co
 
 As I've been going over all this the last week I've been brain dumping into this document and I thought I'd make it public and see what can be organised and if people agree with my thinking on this.
 
-I would really appreciate it if @dfreeman, @lifeart, @chiragpat, @locks and @nullvoxpopuli could offer thoughts on this.
-
 ---
 
 ## Ember Tooling GitHub Organisation
